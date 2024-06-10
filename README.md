@@ -37,7 +37,7 @@ In order to build MPG you need:
  * perl
  * ps2pdf which is part of GhostScript
 
-Typing `make` `(up to three times) generates the file MPG.pdf.
+Typing `make` (up to three times) generates the file MPG.pdf.
 
 ## Contact
 
